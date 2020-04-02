@@ -1,0 +1,37 @@
+{
+	"groups":[
+	{
+		"keys":"bg_jpg,egret_icon_png,cardBg_jpg,description_json,cx_png",
+		"name":"preload"
+	},
+	{
+		"keys":"cardBg_jpg",  
+		"name":"cardBackground"
+	}],
+	"resources":[
+	{
+		"name":"bg_jpg",
+		"type":"image",
+		"url":"assets/bg.jpg"
+	},
+	{
+		"name":"egret_icon_png",
+		"type":"image",
+		"url":"assets/egret_icon.png"
+	},
+	{
+		"name":"description_json",
+		"type":"json",
+		"url":"config/description.json"
+	},
+	{
+		"name":"cardBg_jpg",   
+		"type":"image",        
+		"url":"assets/cardBg.jpg"	
+	},
+	{
+		"name":"cx_png",   
+		"type":"image",        
+		"url":"assets/cx.png"	
+	}]
+}
